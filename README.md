@@ -27,6 +27,6 @@ The roadmap for future projects includes but is not limited to:
 To begin exploring the projects, clone this repository and set up the environment with the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/R-D.git
+git clone https://github.com/Suriya-002/R-D.git
 cd R-D
 pip install -r requirements.txt
