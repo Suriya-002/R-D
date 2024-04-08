@@ -12,7 +12,7 @@ This repository serves as both a personal learning diary and a showcase of my ex
 
 - **ETS Model Experiments:** An exploration of Exponential Smoothing State Space models, understanding their application in forecasting.
 - **ARIMA and Auto ARIMA Experiments:** A series of projects focused on the implementation and tuning of ARIMA and Auto ARIMA models for better prediction accuracy.
-- **Hidden Markov Models (HMM):** Currentl focusing on Hidden Markov Models to understand their potential in modeling time series data and sequences. This involves studying their theoretical foundations, implementing algorithms for training and inference, and applying them to real-world forecasting problems.
+- **Hidden Markov Models (HMM):** Current focusing on Hidden Markov Models to understand their potential in modeling time series data and sequences. This involves studying their theoretical foundations, implementing algorithms for training and inference, and applying them to real-world forecasting problems.
 
 ## Upcoming Projects
 
