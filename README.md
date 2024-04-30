@@ -34,7 +34,7 @@ Looking ahead, the roadmap for future exploration includes:
 
 - **Machine Learning Algorithms**: Deeper dives into supervised, unsupervised, and semi-supervised learning models.
 - **Deep Learning for NLP and Computer Vision**: Application of neural networks in processing natural language and visual data.
-- **Big Data Analytics**: Utilizing frameworks like Spark and Hadoop for analyzing.
+- **Big Data Analytics**: Utilizing frameworks like Spark and Hadoop for analyzing large datasets.
 - **Reinforcement Learning**: Implementing agents that learn from their environment to make decisions.
 
 ## Getting Started
